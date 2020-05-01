@@ -1,2 +1,1 @@
-# devops
-Devops code
+# DevOps
